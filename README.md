@@ -1,6 +1,9 @@
 # Olá, eu sou o Enzo! 👋
 
-🎯 Estudante de Sistemas de Informação e desenvolvedor Web em formação, apaixonado por transformar ideias em interfaces bonitas e funcionais.
+🎯 Estudante de Sistemas de Informação com mentalidade proativa e aprendizado acelerado. 
+Movido pela capacidade que a tecnologia tem de inovar e criar soluções que realmente fazem 
+diferença na vida das pessoas. Estou no início da minha jornada no Desenvolvimento Web, 
+construindo uma base sólida com foco em crescimento contínuo e evolução profissional.
 
 ## 🚀 Sobre mim
 
