@@ -8,7 +8,7 @@
 - 🌱 Atualmente aprendendo **HTML/CSS**, **JavaScript** e **Python**
 - 💻 Focado em **Desenvolvimento Web**
 - 🔭 Explorando projetos pessoais para praticar e evoluir
-- 📍 Brasil
+- 📍 Natal - RN
 
 ## 🛠️ Tecnologias & Ferramentas
 
